@@ -1,9 +1,14 @@
+
+
 # Compose Semantics Lab
 
 A companion app for the talk **"Beyond contentDescription: Demystifying Compose
 Semantics for Production Apps."** Every case from the slides is its own
 screen here, with a live BAD/GOOD toggle so you can feel the difference with
 TalkBack turned on, not just read about it.
+
+Presentation : [compose_semantics_talk.pptx](https://github.com/user-attachments/files/32575021/compose_semantics_talk.pptx)
+
 
 ## Screens
 
@@ -64,3 +69,4 @@ instrumented tests pass for real (not just "should compile").
 Turn on TalkBack (Settings → Accessibility → TalkBack) and swipe through each
 screen. Every "How to verify" card at the bottom of a screen tells you exactly
 what to listen for in the BAD state vs. the GOOD state.
+
