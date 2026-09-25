@@ -6,7 +6,8 @@ Every case from the presentation slides is implemented as its own interactive sc
 
 * 🔗 **My Post:** [View on LinkedIn](https://lnkd.in/p/eEY3YCDg)
 * 📢 **Londroid Announcement:** [View on LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7506682433342320640/)
-* 📊 **Presentation Slides:** `compose_semantics_talk.pptx`
+* 📊 **Presentation Slides:** [compose_semantics_talk.pptx](https://github.com/user-attachments/files/32644402/compose_semantics_talk.pptx)
+
 
 ---
 
