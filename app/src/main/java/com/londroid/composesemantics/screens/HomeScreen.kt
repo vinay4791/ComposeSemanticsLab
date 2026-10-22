@@ -28,6 +28,8 @@ private val cases = listOf(
     Case(Routes.FONT_SCALING, "Font Scaling", "heightIn() vs. fixed height"),
     Case(Routes.MERGE_SCENARIOS, "Merge Scenarios", "Text(\"Hello\") in two contexts"),
     Case(Routes.SEMANTICS_DEFAULTS, "Semantics Defaults", "What gets semantics for free"),
+    Case(Routes.READING_ORDER, "Reading Order", "traversalIndex: reorder without moving pixels"),
+    Case(Routes.TRAVERSAL_GROUP, "Traversal Group", "isTraversalGroup: trap focus inside a card"),
 )
 
 @OptIn(ExperimentalMaterial3Api::class)
