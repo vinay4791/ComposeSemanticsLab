@@ -6,6 +6,18 @@ Invisible UI for Screen Readers"** (IxDF Barcelona). Every case from either deck
 its own screen here, with a live BAD/GOOD toggle so you can feel the difference with
 TalkBack turned on, not just read about it.
 
+
+Every case from the presentation slides is implemented as its own interactive screen, featuring a live **BAD / GOOD toggle** so you can hear and feel the difference with TalkBack enabled.
+
+* 🔗 **My Post:** [View on LinkedIn](https://lnkd.in/p/eEY3YCDg)
+* 📢 **Londroid Announcement:** [View on LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7506682433342320640/)
+* 📊 **Presentation Slides: Londroid** [compose_semantics_talk.pptx](https://github.com/user-attachments/files/32644402/compose_semantics_talk.pptx)
+* 📊 **Presentation Slides: IxDF** [ixdf_barcelona_talk_publish.pptx](https://github.com/user-attachments/files/33888881/ixdf_barcelona_talk_publish.pptx)
+* 📢 **The full recording of the talk is available on YouTube:** https://lnkd.in/eTpbT4Ff
+
+
+---
+
 ## Automated UI Testing
 
 | # | Screen | Slide topic | What it shows |
